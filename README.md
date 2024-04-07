@@ -10,3 +10,4 @@
   - **Market Capitalization**: >$2B
   - **Exchange**: The data includes stocks listed on NASDAQ, NYSE, and AMEX.
   - **Price**: <$2000
+- **Total numbers of stocks** : 2014
