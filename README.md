@@ -11,4 +11,4 @@
   - **Exchange**: The data includes stocks listed on NASDAQ, NYSE, and AMEX.
   - **Price**: <$2000
   - **Turnover**： >$10M
-- **Total numbers of stocks** : 1712
+- **Total numbers of stocks** : 1706
