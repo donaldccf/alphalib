@@ -9,6 +9,6 @@
   **Filtered By**:
   - **Market Capitalization**: >$2B
   - **Exchange**: The data includes stocks listed on NASDAQ, NYSE, and AMEX.
-  - **Price**: <$2000
+  - **Price**: $2<**P**<$2000
   - **Turnover**： >$10M
 - **Total numbers of stocks** : 1706
